@@ -6,7 +6,6 @@ import 'package:google_fonts/google_fonts.dart';
 class SurpriseScreen extends StatelessWidget {
   final _foldingCellKey = GlobalKey<SimpleFoldingCellState>();
 
-  //Criação do card com efeito
   @override
   Widget build(BuildContext context) {
     return Container(
